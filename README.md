@@ -1,6 +1,7 @@
 # Dream11
 
 Dream11 is a comprehensive cricket platform that combines data analysis and interactive web features. This project allows users to create their Dream11 fantasy cricket teams and explore detailed statistics from the World Cup 2023 cricket tournament.
+Link to App: https://dream11-wc-2023-analysis-d4pleliywlszsoctwdb5st.streamlit.app/
 
 ## Technologies Used
 
