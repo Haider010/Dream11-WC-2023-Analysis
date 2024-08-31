@@ -8,7 +8,7 @@ import plotly.express as px
 conn = sq.sql_py()
 
 # Page title
-st.title("WC-2023-Analysis")
+st.title("Hi Isha Waleed")
 
 # Load and display logo in the sidebar
 logo = Image.open("pictures/logo.png")
